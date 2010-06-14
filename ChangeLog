@@ -1,0 +1,8 @@
+[0.1.3]
+
+2010-06-04	Giuseppe Massari <joe.massanga@gmail.com>
+
+	* cpm_daemon.c : CPM_COMM_LEN macro inserted for command string max length definition
+	* cpm_daemon.c (register_xp) : Fixed crashdump
+	* cpm_daemon.c (assert_xp): Unified command string max length use
+	
